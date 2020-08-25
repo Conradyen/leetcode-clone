@@ -1,5 +1,6 @@
 node_modules
 .env
 .DS_Store
+.gitignore
 
 /client/node_modules
